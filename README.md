@@ -5,8 +5,8 @@ This is a full-stack MERN application built with MongoDB, Express.js, React.js, 
 
 ## 🚀 Live Demo
 
-👉 https://funny-hotteok-702d40.netlify.app/admin
 
+(https://funny-hotteok-702d40.netlify.app)
 ## 📂 Project Structure
 
 created a beautifully designed social media platform that allows users 
